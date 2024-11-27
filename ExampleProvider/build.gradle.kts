@@ -5,7 +5,6 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "Drama"
     authors = listOf("Abinis")
 
     /**
@@ -18,8 +17,7 @@ cloudstream {
     status = 1
 
     tvTypes = listOf(
-    "Drama",
-    "Asian Drama"
+    "Asian Drama",
     )
 
     language = "en"
